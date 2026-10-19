@@ -90,5 +90,5 @@ ds-bi --db data.db transactions/by_source txn_table=transactions source_name=CRM
 ```
 
 Больше примеров — в `queries/` этого репозитория (на реальной схеме `ds`, см. `ds`'s
-[`docs/reference/storage-port.md`](https://github.com/A1eksMa/ds/blob/main/docs/reference/storage-port.md)
+[`docs/reference/storage-port.md`](https://github.com/DS-Pipeline/ds/blob/main/docs/reference/storage-port.md)
 для списка таблиц).
